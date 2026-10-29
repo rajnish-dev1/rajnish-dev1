@@ -6,14 +6,15 @@
 
 🧑‍🚀 About Me
 
-class RajnishKumar:
+Hii RajnishKumar:
     role = "Aspiring Data Analyst"
     education = "Engineering - Information Technology"
     interests = [
-        "Data Analytics",
-        "Python Development",
+        "DSA",
+        "Python",
         "Machine Learning",
         "Computer Vision"
+        
     ]
     current_project = "Automatic Number Plate Recognition"
     mindset = "Learn | Build | Improve"
@@ -29,13 +30,12 @@ class RajnishKumar:
 
 <div align="center">💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" alt="Programming skills" />📊 Data Analytics
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Programming skills" />📊 Data Analytics
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />🤖 AI & Computer Vision
+/>🤖 AI & Computer Vision
 
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark" alt="AI tools" />🛠️ Tools
 
@@ -64,9 +64,8 @@ Tech: Python · Pandas · NumPy · Excel
 
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top languages" /><img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak" /></div>🎯 2026 Goals
 
-- [ ] Master Python for Data Analytics.
+- [ ] Master Python
 - [ ] Strengthen SQL and Excel skills.
-- [ ] Build interactive Power BI dashboards.
 - [ ] Develop more AI and Machine Learning projects.
 - [ ] Contribute to open-source projects.
 
