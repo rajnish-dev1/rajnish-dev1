@@ -277,22 +277,6 @@ User Query → Document Retrieval → Relevance Evaluation → Knowledge Correct
 
 </div>
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="mailto:rajnishkumar875737@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-
 ### ✨ "Keep Learning. Keep Building. Keep Growing."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
