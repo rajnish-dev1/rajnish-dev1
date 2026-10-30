@@ -298,3 +298,34 @@ User Query → Document Retrieval → Relevance Evaluation → Knowledge Correct
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="mailto:rajnishkumar875737@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajnish-kumar-b1141b3303/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/name.ravlux/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1DKrSYqLZB/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://thunderous-souffle-6d8819.netlify.app/">
+<img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rajnish-dev1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
